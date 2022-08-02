@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sini1004&langs_count=8)](https://github.com/sini1004/github-readme-stats)
 
-<p>:movie: My favorite movie is 'Harry Potter'</p>
+<p> :movie: My favorite movie is 'Harry Potter'</p>
