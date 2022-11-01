@@ -2,12 +2,14 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=이름&logoColor=색상">
+  <br>
   <img src = "https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3">&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
+  <br>
   <img src = "https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
-  <br>
 </p>
 
 <br>
