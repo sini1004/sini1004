@@ -7,14 +7,12 @@
   <img src = "https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  
   <br>
   
   <img src = "https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3">&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;
   <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-  
   <br>
   
   <img src = "https://img.shields.io/badge/-jQueryr-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">&nbsp;&nbsp;
