@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=이름&logoColor=색상">
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=이름&logoColor=색상">
   <br>
   <img src = "https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;
