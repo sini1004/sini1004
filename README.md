@@ -9,5 +9,4 @@
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sini1004&langs_count=8)](https://github.com/sini1004/github-readme-stats)
-
-<p> :movie: My favorite movie is 'Harry Potter'</p>
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
